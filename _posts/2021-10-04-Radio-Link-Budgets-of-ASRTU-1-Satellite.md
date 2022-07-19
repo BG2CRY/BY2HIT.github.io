@@ -77,7 +77,7 @@ title:  "Radio Link Budgets of ASRTU-1 Satellite"
 
 |                     | Data  | Data  | Unit |
 | ------------------- | ----- | ----- | ---- |
-| Frequency           | 10.5  | 10.5  | GHz  |
+| Frequency           | 10.46  | 10.46  | GHz  |
 | Modulation Type     | QPSK  | QPSK  | -    |
 | Data Rate           | 1     | 10    | Mbps |
 | Distance            | 1400  | 1400  | km   |
